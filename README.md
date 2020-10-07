@@ -1,0 +1,2 @@
+# vm
+vision and mission 
